@@ -1,5 +1,5 @@
 # corvin.me
-#corvin.me
+
 # A small web project by Corvin.
 
 # Currently learning, building, and coding.
